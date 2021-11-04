@@ -1,0 +1,16 @@
+{
+	"folders": [
+		{
+			"path": "..\\.."
+		},
+		{
+			"path": "..\\..\\..\\dcit 204"
+		},
+		{
+			"path": "..\\..\\..\\202 project"
+		}
+	],
+	"settings": {
+		"terminal.integrated.sendKeybindingsToShell": true
+	}
+}
